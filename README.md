@@ -129,5 +129,3 @@ jupyter notebook AI_Financial_Assistant_Prototype.ipynb
 
 ![Financial Assistant Screenshot](Screenshot.png)
 
-
-What’s the next artifact you’re building that increases your applied AI signal beyond notebook-level prototypes?
